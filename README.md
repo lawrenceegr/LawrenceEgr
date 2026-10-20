@@ -1,22 +1,13 @@
-<h1 align="center">Hi, I'm Lawrence Langat 👋</h1>
-<h3 align="center">Embedded Systems Engineer · Firmware · PCB Design · IoT</h3>
+# <p align="center">Lawrence Langat</p>
 
-<p align="center">
-  <a href="https://github.com/lawrenceegr"><img src="https://img.shields.io/github/followers/lawrenceegr?label=Follow&style=social" alt="GitHub followers"></a>
-  <img src="https://img.shields.io/badge/Based%20in-Nairobi%2C%20Kenya-0a7d3b?style=flat" alt="Nairobi, Kenya">
-</p>
+<h3 align="center">An embedded systems engineer building firmware, PCBs, and connected devices, from first schematic to shipping product.</h3>
 
----
-
-### About me
-
-I'm an embedded systems engineer who takes hardware from idea to shipping product: schematic and PCB layout, firmware, and the desktop or mobile tooling that goes with it. I also take on freelance client work through Fiverr.
-
-- 🔌 Designing custom PCBs in **KiCad** and getting them built at **JLCPCB**
-- ⌨️ Building custom mechanical keyboards and macropads with **ZMK** and **QMK**
-- 📡 Writing cellular IoT firmware over **MQTT** on **LTE-M / NB-IoT**
-- 🔄 Implementing secure firmware-over-the-air updates with **MCUboot** on **Zephyr RTOS**
-- 🖥️ Building configurator and companion apps in **Qt / C++**
+- 🔌 Designing custom PCBs in **KiCad** and taking them through to manufacturing at **JLCPCB**.
+- ⌨️ Building custom **mechanical keyboards** and **macropads** with **ZMK** and **QMK**.
+- 📡 Writing **cellular IoT** firmware over **MQTT** on **LTE-M / NB-IoT**.
+- 🔄 Implementing secure **firmware-over-the-air (FOTA)** updates with **MCUboot** on **Zephyr RTOS**.
+- 🖥️ Building configurator and companion apps in **Qt / C++**.
+- 🤝 Open to freelance client work on **Fiverr** in firmware, PCB design, and IoT.
 
 ---
 
@@ -66,9 +57,3 @@ Custom mechanical keyboard PCBs · Cellular IoT firmware · FOTA implementation 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=lawrenceegr&theme=github-dark-blue&hide_border=true" alt="GitHub streak">
 </p>
-
----
-
-### Let's connect
-
-Open to client work in firmware, PCB design, and IoT. Reach out through Fiverr or LinkedIn, or open an issue on any of my repos.
