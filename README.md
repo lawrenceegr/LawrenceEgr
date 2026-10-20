@@ -4,14 +4,13 @@
 <p align="center">
   <a href="https://github.com/lawrenceegr"><img src="https://img.shields.io/github/followers/lawrenceegr?label=Follow&style=social" alt="GitHub followers"></a>
   <img src="https://img.shields.io/badge/Based%20in-Nairobi%2C%20Kenya-0a7d3b?style=flat" alt="Nairobi, Kenya">
-  <img src="https://img.shields.io/badge/Squared%20Computing-Kenya-1f6feb?style=flat" alt="Squared Computing Kenya">
 </p>
 
 ---
 
 ### About me
 
-I'm an embedded systems engineer at **Squared Computing Kenya**, where I take client hardware from idea to shipping product: schematic and PCB layout, firmware, and the desktop or mobile tooling that goes with it. I also freelance under the Squared Computing brand on Fiverr.
+I'm an embedded systems engineer who takes hardware from idea to shipping product: schematic and PCB layout, firmware, and the desktop or mobile tooling that goes with it. I also take on freelance client work through Fiverr.
 
 - 🔌 Designing custom PCBs in **KiCad** and getting them built at **JLCPCB**
 - ⌨️ Building custom mechanical keyboards and macropads with **ZMK** and **QMK**
@@ -51,20 +50,6 @@ I'm an embedded systems engineer at **Squared Computing Kenya**, where I take cl
 
 ---
 
-### Featured projects
-
-| Project | What it is |
-|---|---|
-| [keyboard_configurator](https://github.com/lawrenceegr/keyboard_configurator) | Desktop configurator for custom keyboards |
-| [zmk-config-julien](https://github.com/lawrenceegr/zmk-config-julien) | ZMK config for an STM32H723-based ISO TKL |
-| [zmk-config-holypad](https://github.com/lawrenceegr/zmk-config-holypad) | ZMK config for an nRF52840 wireless board |
-| [zmk-config-encoder](https://github.com/lawrenceegr/zmk-config-encoder) | Quadrature encoder bridge for ZMK |
-| [zmk-config-macropad](https://github.com/lawrenceegr/zmk-config-macropad) | Macropad firmware configuration |
-| [kicad](https://github.com/lawrenceegr/kicad) | KiCad libraries and hardware designs |
-| [loan-app](https://github.com/lawrenceegr/loan-app) | Loan record-keeping app with Admin and Agent roles |
-
----
-
 ### What I can help with
 
 Custom mechanical keyboard PCBs · Cellular IoT firmware · FOTA implementation · RTOS migration · PCB design review · Qt configurator apps
@@ -74,7 +59,7 @@ Custom mechanical keyboard PCBs · Cellular IoT firmware · FOTA implementation 
 ### GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lawrenceegr&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lawrenceegr&theme=github_dark" alt="GitHub stats">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawrenceegr&layout=compact&theme=github_dark&hide_border=true" alt="Top languages">
 </p>
 
